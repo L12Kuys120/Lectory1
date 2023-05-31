@@ -1,4 +1,4 @@
-﻿
+﻿/*
 int[] array = new int[10];
 
 void FillArray(int[] collection)
@@ -28,4 +28,15 @@ void PrintArray(int[] collection)
 }
 
 FillArray(array);
-PrintArray(array);
+PrintArray(array);*/
+
+int Prompt(string message)
+{
+    System.Console.Write(message);
+    string ReadInput = System.Console.ReadLine();
+    int result = int.Parse(ReadInput);
+    return result;
+
+}
+
+int length = Prompt("Введите число");
