@@ -1,0 +1,15 @@
+C:\Users\radio\OneDrive\Документы\Programming languages\Lecture_3\Whiles\bin\Debug\net6.0\Whiles.exe
+C:\Users\radio\OneDrive\Документы\Programming languages\Lecture_3\Whiles\bin\Debug\net6.0\Whiles.deps.json
+C:\Users\radio\OneDrive\Документы\Programming languages\Lecture_3\Whiles\bin\Debug\net6.0\Whiles.runtimeconfig.json
+C:\Users\radio\OneDrive\Документы\Programming languages\Lecture_3\Whiles\bin\Debug\net6.0\Whiles.dll
+C:\Users\radio\OneDrive\Документы\Programming languages\Lecture_3\Whiles\bin\Debug\net6.0\Whiles.pdb
+C:\Users\radio\OneDrive\Документы\Programming languages\Lecture_3\Whiles\obj\Debug\net6.0\Whiles.csproj.AssemblyReference.cache
+C:\Users\radio\OneDrive\Документы\Programming languages\Lecture_3\Whiles\obj\Debug\net6.0\Whiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radio\OneDrive\Документы\Programming languages\Lecture_3\Whiles\obj\Debug\net6.0\Whiles.AssemblyInfoInputs.cache
+C:\Users\radio\OneDrive\Документы\Programming languages\Lecture_3\Whiles\obj\Debug\net6.0\Whiles.AssemblyInfo.cs
+C:\Users\radio\OneDrive\Документы\Programming languages\Lecture_3\Whiles\obj\Debug\net6.0\Whiles.csproj.CoreCompileInputs.cache
+C:\Users\radio\OneDrive\Документы\Programming languages\Lecture_3\Whiles\obj\Debug\net6.0\Whiles.dll
+C:\Users\radio\OneDrive\Документы\Programming languages\Lecture_3\Whiles\obj\Debug\net6.0\refint\Whiles.dll
+C:\Users\radio\OneDrive\Документы\Programming languages\Lecture_3\Whiles\obj\Debug\net6.0\Whiles.pdb
+C:\Users\radio\OneDrive\Документы\Programming languages\Lecture_3\Whiles\obj\Debug\net6.0\Whiles.genruntimeconfig.cache
+C:\Users\radio\OneDrive\Документы\Programming languages\Lecture_3\Whiles\obj\Debug\net6.0\ref\Whiles.dll

@@ -1,0 +1,5 @@
+C:\Users\radio\OneDrive\Документы\Lecture\Lectory1\Points\obj\Debug\net6.0\Points.csproj.AssemblyReference.cache
+C:\Users\radio\OneDrive\Документы\Lecture\Lectory1\Points\obj\Debug\net6.0\Points.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radio\OneDrive\Документы\Lecture\Lectory1\Points\obj\Debug\net6.0\Points.AssemblyInfoInputs.cache
+C:\Users\radio\OneDrive\Документы\Lecture\Lectory1\Points\obj\Debug\net6.0\Points.AssemblyInfo.cs
+C:\Users\radio\OneDrive\Документы\Lecture\Lectory1\Points\obj\Debug\net6.0\Points.csproj.CoreCompileInputs.cache

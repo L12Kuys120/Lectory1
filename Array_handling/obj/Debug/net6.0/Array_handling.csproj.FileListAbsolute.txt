@@ -1,0 +1,15 @@
+C:\Users\radio\OneDrive\Документы\Programming languages\Lecture_3\Array_handling\bin\Debug\net6.0\Array_handling.exe
+C:\Users\radio\OneDrive\Документы\Programming languages\Lecture_3\Array_handling\bin\Debug\net6.0\Array_handling.deps.json
+C:\Users\radio\OneDrive\Документы\Programming languages\Lecture_3\Array_handling\bin\Debug\net6.0\Array_handling.runtimeconfig.json
+C:\Users\radio\OneDrive\Документы\Programming languages\Lecture_3\Array_handling\bin\Debug\net6.0\Array_handling.dll
+C:\Users\radio\OneDrive\Документы\Programming languages\Lecture_3\Array_handling\bin\Debug\net6.0\Array_handling.pdb
+C:\Users\radio\OneDrive\Документы\Programming languages\Lecture_3\Array_handling\obj\Debug\net6.0\Array_handling.csproj.AssemblyReference.cache
+C:\Users\radio\OneDrive\Документы\Programming languages\Lecture_3\Array_handling\obj\Debug\net6.0\Array_handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radio\OneDrive\Документы\Programming languages\Lecture_3\Array_handling\obj\Debug\net6.0\Array_handling.AssemblyInfoInputs.cache
+C:\Users\radio\OneDrive\Документы\Programming languages\Lecture_3\Array_handling\obj\Debug\net6.0\Array_handling.AssemblyInfo.cs
+C:\Users\radio\OneDrive\Документы\Programming languages\Lecture_3\Array_handling\obj\Debug\net6.0\Array_handling.csproj.CoreCompileInputs.cache
+C:\Users\radio\OneDrive\Документы\Programming languages\Lecture_3\Array_handling\obj\Debug\net6.0\Array_handling.dll
+C:\Users\radio\OneDrive\Документы\Programming languages\Lecture_3\Array_handling\obj\Debug\net6.0\refint\Array_handling.dll
+C:\Users\radio\OneDrive\Документы\Programming languages\Lecture_3\Array_handling\obj\Debug\net6.0\Array_handling.pdb
+C:\Users\radio\OneDrive\Документы\Programming languages\Lecture_3\Array_handling\obj\Debug\net6.0\Array_handling.genruntimeconfig.cache
+C:\Users\radio\OneDrive\Документы\Programming languages\Lecture_3\Array_handling\obj\Debug\net6.0\ref\Array_handling.dll
