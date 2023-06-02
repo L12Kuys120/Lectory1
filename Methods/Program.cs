@@ -1,67 +1,90 @@
-﻿// Вид 1. Методы ничего не возвращают и ничего не принимают
-void Method1()
+﻿//Ввод аргумента
+int Prompt(string message)
 {
-    Console.WriteLine("Autor.....");
-}
-//Method1();
+    System.Console.Write(message);
+    string ReadInput = System.Console.ReadLine();
+    int result = int.Parse(ReadInput);
+    return result;
 
-// Вид 2. Методы ничего не возвращают, но принимают какие то аргументы
-void Method2(string msg)
-{
-    Console.WriteLine(msg);
 }
-//Method2("Текстовое сообщение");  
+int length = Prompt("Введите число");
+//----------------------------------------------------------------
 
-//Примеры ввода аргументов
-void Method21(string msg, int count)
+// Распечатывание массива
+void PrintArray(int[] collection)
 {
-    int i = 0;
-    while(i < count)
+    int length = collection.Length;
+    int index = 0;
+
+    while(index < length)
     {
-        Console.WriteLine(msg);
-        i++;
-    }    
-}
-//Method21("Текстовое сообщение", 10);
-//Method21(msg: "Текстовое сообщение", count: 10); //Именованные аргументы, порядок не важен.
-
-
-// Вид 3. Методы что то возвращают и ничего не принимают
-int Method3()
-{
-    return DateTime.Now.Year;
-}
-int year = Method3(); //Что бы вызвать метод нужно создать переменную
-//Console.WriteLine(year);
-
-// Вид 3. Методы что то возвращают и что то принимают
-/*string Method4(int count, string text)
-{
-    int i = 0;
-    string result = string.Empty; //аналог  = "";
-
-    while(i < count)
-    {
-       result = result + text;
-        i++;
+        Console.Write(collection[index]);
+        index++;
     }
-    return result; 
-}  
-string res = Method4(10, "Добрый день!!!"); //Что бы вызвать метод нужно создать переменную и указать аргуметы по порядку
-Console.WriteLine(res);*/
 
-//То же с циклом for
-string Method4(int count, string text)
+}
+//----------------------------------------------------------------
+// Генерация массива случайных элементов целых чисел от 1 до 9
+void FillArray(int[] collection)
 {
+    int length = collection.Length;
+    int index = 0;
+    {
+        collection[index] = new Random().Next(1, 10);
+        index++;
+    }
     
-    string result = string.Empty; //аналог  = "";
+}
+//----------------------------------------------------------------
 
-    for(int i =0; i < count; i++)
+// Сортировка массива с выбором минимального эл-та
+int[ ] arr = {1, 2, 3, 4, 5, 6, 7, 1, 1};
+
+void PrintArray(int[] array)
+{
+    int count = array.Length;
+    
+    for (int i = 0; i < count; i++)
     {
-       result = result + text;
-       
+        Console.Write($"{array[i]} ");
     }
-    return result; 
-}  
-string res = Method4(10, "Добрый день!!!"); //Что бы вызвать метод нужно создать переменную и указать аргуметы по порядку
-Console.WriteLine(res);
+    Console.WriteLine();
+}
+PrintArray(arr);
+
+void SelectionSort(int[] array)
+{
+    for (int i = 0; i < array.Length - 1; i++)
+    {
+        int minPosition = i;
+        for (int j = i + 1; j < array.Length; j++)
+        {
+            if(array[j] < array[minPosition]) minPosition = j;
+        }
+        int temporary = array[i];         
+        array[i] = array[minPosition];
+        array[minPosition] = temporary;
+
+    }
+}
+
+SelectionSort(arr);
+PrintArray(arr);
+//-----------------------------------------------------------------
+
+// Нахождение эл-та массива
+int FindElem(int[] collection, int find)
+{
+    int length = collection.Length;
+    int index = 0;
+    int position = -1;
+
+    while(index < length)
+    {
+        if(collection[index] == find) 
+        {
+            position = index;
+            break;
+        }
+    }
+}

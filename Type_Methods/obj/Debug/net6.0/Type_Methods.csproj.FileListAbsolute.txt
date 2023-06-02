@@ -1,0 +1,15 @@
+C:\Users\radio\OneDrive\Документы\Lecture\Lectory1\Type_Methods\bin\Debug\net6.0\Type_Methods.exe
+C:\Users\radio\OneDrive\Документы\Lecture\Lectory1\Type_Methods\bin\Debug\net6.0\Type_Methods.deps.json
+C:\Users\radio\OneDrive\Документы\Lecture\Lectory1\Type_Methods\bin\Debug\net6.0\Type_Methods.runtimeconfig.json
+C:\Users\radio\OneDrive\Документы\Lecture\Lectory1\Type_Methods\bin\Debug\net6.0\Type_Methods.dll
+C:\Users\radio\OneDrive\Документы\Lecture\Lectory1\Type_Methods\bin\Debug\net6.0\Type_Methods.pdb
+C:\Users\radio\OneDrive\Документы\Lecture\Lectory1\Type_Methods\obj\Debug\net6.0\Type_Methods.csproj.AssemblyReference.cache
+C:\Users\radio\OneDrive\Документы\Lecture\Lectory1\Type_Methods\obj\Debug\net6.0\Type_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radio\OneDrive\Документы\Lecture\Lectory1\Type_Methods\obj\Debug\net6.0\Type_Methods.AssemblyInfoInputs.cache
+C:\Users\radio\OneDrive\Документы\Lecture\Lectory1\Type_Methods\obj\Debug\net6.0\Type_Methods.AssemblyInfo.cs
+C:\Users\radio\OneDrive\Документы\Lecture\Lectory1\Type_Methods\obj\Debug\net6.0\Type_Methods.csproj.CoreCompileInputs.cache
+C:\Users\radio\OneDrive\Документы\Lecture\Lectory1\Type_Methods\obj\Debug\net6.0\Type_Methods.dll
+C:\Users\radio\OneDrive\Документы\Lecture\Lectory1\Type_Methods\obj\Debug\net6.0\refint\Type_Methods.dll
+C:\Users\radio\OneDrive\Документы\Lecture\Lectory1\Type_Methods\obj\Debug\net6.0\Type_Methods.pdb
+C:\Users\radio\OneDrive\Документы\Lecture\Lectory1\Type_Methods\obj\Debug\net6.0\Type_Methods.genruntimeconfig.cache
+C:\Users\radio\OneDrive\Документы\Lecture\Lectory1\Type_Methods\obj\Debug\net6.0\ref\Type_Methods.dll
